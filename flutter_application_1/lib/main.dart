@@ -3,7 +3,6 @@ import 'homepage.dart';
 import 'chart.dart';
 import 'setting.dart';
 
-
 void main() {
   runApp(const MyApp());
 }
@@ -43,7 +42,7 @@ class _HomeState extends State<Home> {
     SettingPage(),
   ];
 
-  int _selectIndex = 1;
+  int _selectIndex = 0;
 
   void _onTapItem(int index) {
     setState(() {
