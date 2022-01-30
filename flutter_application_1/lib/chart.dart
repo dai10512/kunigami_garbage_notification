@@ -1,4 +1,3 @@
-
 import 'package:flutter/material.dart';
 import 'package:webview_flutter/webview_flutter.dart';
 
@@ -12,33 +11,16 @@ class ChartPage extends StatefulWidget {
 }
 
 class _ChartPageState extends State<ChartPage> {
-  bool _isLoading = false;
-
-  //  final controller = await _controller.future;
-  //       final title = await controller.getTitle();
-
   @override
   Widget build(BuildContext context) {
     return WebView(
       initialUrl:
           'https://kunigami-kanko.com/wp-content/themes/kunigami_by_settenlab/assets/kunigami_kanko_guide_jp.pdf',
     );
-
-    
-    //     ),SingleChildScrollView(
-    //   padding: const EdgeInsets.all(8.0),
-    //   child: Column(children: <Widget>[
-    //     WebView(
-    //       initialUrl: 'https://kunigami-kanko.com/wp-content/themes/kunigami_by_settenlab/assets/kunigami_kanko_guide_jp.pdf',
-    //     ),
-    //     Stack(children: <Widget>[
-    //       Stack(
-    //         children: <Widget>[
-    //           Text('明日のゴミ', style: Theme.of(context).textTheme.headline4),
-    //         ],
-    //       ),
-    //     ]),
-    //   ]),
+    // return WebView(
+    //   initialUrl:
+    //       'http://www.vill.kunigami.okinawa.jp/kunigami-village/wp-content/uploads/2016/04/%E3%81%94%E3%81%BF%E3%81%AE%E6%AD%A3%E3%81%97%E3%81%84%E5%88%86%E3%81%91%E6%96%B9.pdf',
     // );
+
   }
 }
