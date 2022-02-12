@@ -13,9 +13,8 @@ class ChartPage extends StatefulWidget {
 class _ChartPageState extends State<ChartPage> {
   @override
   Widget build(BuildContext context) {
-    return WebView(
-      initialUrl:
-          'http://www.vill.kunigami.okinawa.jp/kunigami-village/wp-content/uploads/2015/10/%E3%81%94%E3%81%BF%E3%81%AE%E6%AD%A3%E3%81%97%E3%81%84%E5%88%86%E3%81%91%E6%96%B9.pdf',
-    );
+    return const WebView(
+        initialUrl:
+            'https://www.yanbaru-oki.jp/medical_welfare/list/kunigamison-gominobunbetutoshuushuubinituite/');
   }
 }
