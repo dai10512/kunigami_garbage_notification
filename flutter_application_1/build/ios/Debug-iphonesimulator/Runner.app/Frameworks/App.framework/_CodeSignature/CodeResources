@@ -6,7 +6,7 @@
 	<dict>
 		<key>Info.plist</key>
 		<data>
-		2WH3EkzfNpYxRzEQezsUEM18s6A=
+		85iaADE5tc/NukRC+KGdiZaZ0ZA=
 		</data>
 		<key>flutter_assets/AssetManifest.json</key>
 		<data>
@@ -18,27 +18,31 @@
 		</data>
 		<key>flutter_assets/NOTICES.Z</key>
 		<data>
-		s4XYo1kB+pfSI98NbUeU1/5lVVw=
+		PmX6A/qXED5xzVMoRvTMFk2vLrU=
 		</data>
 		<key>flutter_assets/fonts/MaterialIcons-Regular.otf</key>
 		<data>
-		33xe6rFwPlxRnZOgZWsODADpUI4=
+		/CUoTuPQqqdexfyOT9lpJhV+2MQ=
 		</data>
 		<key>flutter_assets/isolate_snapshot_data</key>
 		<data>
-		/8YINIQYa2MGeFNAjTVvMEJmvKA=
+		xbo3iIc8fTnuE5W4XE0VFw6QIBI=
 		</data>
 		<key>flutter_assets/kernel_blob.bin</key>
 		<data>
-		kbwW83SNeeOnJRFHbC1cI2jCcjU=
+		+KUIqGlUGQWzu4o5Zn+abVmJ5Sg=
 		</data>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
 		P7bb/oR3EhwqCIH1M6LyTuBIWYU=
 		</data>
+		<key>flutter_assets/shaders/ink_sparkle.frag</key>
+		<data>
+		Z/DhfUUahgFGsthszkW1YubfdU8=
+		</data>
 		<key>flutter_assets/vm_snapshot_data</key>
 		<data>
-		kzk1wp8qHso+VmYD8lJ5+HidZCw=
+		bjcE383nCc8U85vWBdZ80X32NVA=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -61,28 +65,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9Gu2lcUbmI5byfzyS+y5q19miAKUGjg+Gu2hUL0STQs=
+			3ffD+ynMEWiyP5JDe9K2ofmO4XJcPRUlkBScVnw89Oc=
 			</data>
 		</dict>
 		<key>flutter_assets/fonts/MaterialIcons-Regular.otf</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0E0I/gLatnGI9y4elyWPSg2LWYJSPgLt6hMvgJD5+rQ=
+			2YZbZxoJ1oPROoYwidiCXg9ho3aWzl19RIvIAjqmJFM=
 			</data>
 		</dict>
 		<key>flutter_assets/isolate_snapshot_data</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GiXyiy84iwHokWSI8cF+JQcEiNYwhXKJ6iopY39uCfo=
+			76aJUrz/yLBliHLDcOlVu+tPuICHsFWS91Ovpysst2I=
 			</data>
 		</dict>
 		<key>flutter_assets/kernel_blob.bin</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xS4a+eprIuP/NZXokcijyunwczfLy4rjWF4Byf3ARaM=
+			4GTzEqAt/dR9knNoS0JEBtsZk0uVTs1YOvSOB6eLJ6c=
 			</data>
 		</dict>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
@@ -92,11 +96,18 @@
 			x6NX+tjyECiQtyzbbjyY8U2zoZ7GDbJtE+T+k/dzgI0=
 			</data>
 		</dict>
+		<key>flutter_assets/shaders/ink_sparkle.frag</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			hgGex10sKxTSC95tzLdljzYd3qnntuSb96YXXaU9Nlc=
+			</data>
+		</dict>
 		<key>flutter_assets/vm_snapshot_data</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SWudSb+UjFAbtsuvOflVVEzSQrNcWWVHTwGa+DH02Gs=
+			L69dzlyAJyxdLVGPUFBuUaiyjDwAOUWCUp3TXXm9RjY=
 			</data>
 		</dict>
 	</dict>
